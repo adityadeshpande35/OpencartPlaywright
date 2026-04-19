@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Mar 25 13:33:29 IST 2026","Wed Mar 25 13:33:34 IST 2026","5395","chromium","Login.spec.ts","","","","user login test @master @sanity @regression",""
+"passed","Wed Mar 25 13:33:18 IST 2026","Wed Mar 25 13:33:28 IST 2026","10516","chromium","AccountRegistration.spec.ts","","","","user registration test @master @sanity @regression",""
+"passed","Wed Mar 25 08:11:36 IST 2026","Wed Mar 25 08:11:51 IST 2026","15074","chromium","AccountRegistration.spec.ts","","","","user registration test",""

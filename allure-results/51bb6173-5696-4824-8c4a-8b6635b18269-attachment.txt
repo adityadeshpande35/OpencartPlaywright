@@ -1,0 +1,6 @@
+Registration is  completed!
+Logout is completed!
+Login is completed!
+Product added to cart successfully!
+Navigated to shopping cart page
+Shopping cart verification completed!
